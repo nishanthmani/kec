@@ -1,5 +1,5 @@
 .intro {
-    background-image: url(file:///D:/Learning/KEC/images/bg.png);
+    background-image: url('./images/bg.png');
     display: flex;
     position: relative;
     margin: 0;
