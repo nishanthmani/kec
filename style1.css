@@ -1,0 +1,24 @@
+.home {
+    background-image: url('./images/back-ground-4.jpg');
+    box-sizing: border-box;
+    background-size: cover;
+    background-position: inherit;
+    background-repeat: no-repeat;
+    color: white;
+    margin-top: 50px;
+    /* padding: 0;
+    width: 100vw; */
+}
+
+.title-container {
+    min-height: 70vh;
+    margin-left: 8%;
+    padding-left: 8%;
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
+
+.service-card {
+    object-fit: scale-down;
+    background-size: cover;
+}
