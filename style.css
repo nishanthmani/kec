@@ -1,13 +1,9 @@
-.selector-for-some-widget {
-    box-sizing: content-box;
-}
-
 body {
     box-sizing: border-box;
 }
 
 .home {
-    background-image: url('./images/back-ground-4.jpg');
+    background-image: url('./images/carosal-bg.jpg');
     background-size: cover;
     background-position: inherit;
     background-repeat: no-repeat;
@@ -27,4 +23,24 @@ body {
 
 .sustain {
     object-fit: contain;
+}
+
+.contact{
+    padding: 5px 0;
+    background: #0d0924;
+    color: aliceblue;
+}
+
+.footer-link{
+    color:aliceblue;
+    text-decoration: none;
+}
+
+.footer-link:hover {
+    color: rgb(252, 135, 76);
+    text-decoration: underline;
+}
+
+.img-link{
+    height: 25px;
 }
